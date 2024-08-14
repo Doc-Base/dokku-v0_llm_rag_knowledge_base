@@ -1,0 +1,6 @@
+[submodule "dokku"]
+	path = dokku
+	url = https://github.com/dokku/dokku.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/nginx/nginx.org.git
